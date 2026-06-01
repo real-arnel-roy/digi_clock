@@ -1,3 +1,5 @@
+Can download from this link - https://github.com/real-arnel-roy/digi_clock/releases/tag/V1.0.0
+
 # Digi Clock
 
 A fullscreen cyberpunk-inspired digital clock built with Python and Tkinter.
